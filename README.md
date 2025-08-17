@@ -5,8 +5,7 @@
 🏫 **College:** Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology  
 👩‍💻 **Team Members:**  
   
-- M. Sri Rajeswari (22UEBT0045)
-- G. Rikitha (22UEBT0017)  
+- M. Sri Rajeswari (22UEBT0045)  
 - K. Mohana Priya (22UEBT0034)  
 - B. Umeswari (22UEBT0007)  
 - S. Mannya Manoj (22UEBT0059)
